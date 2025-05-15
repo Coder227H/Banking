@@ -30,5 +30,5 @@ A simple and intuitive Expense Tracker app to manage your personal finances. Add
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/Coder227H/Banking.git
+cd Banking
